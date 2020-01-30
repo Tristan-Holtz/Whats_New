@@ -1,0 +1,29 @@
+.news-card {
+  align-items: center;
+  border: 2px solid white;
+  display: flex;
+  flex-direction: column;
+  height: 350px;
+  justify-content: space-between;
+  padding: 8px;
+  width: 350px;
+}
+
+.news-img {
+  height: 200px;
+  width: 100%;
+}
+
+.article-link {
+  height: 30px;
+  width: 90%;
+}
+
+.news-card p {
+  color: #fff;
+  overflow: auto;
+}
+
+h4 {
+  color: #fff;
+}

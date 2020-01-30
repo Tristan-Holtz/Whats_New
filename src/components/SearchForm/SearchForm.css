@@ -1,0 +1,7 @@
+.nav {
+  align-items: left;
+  display: flex;
+  background: #141527;
+  border-bottom: 2px solid #fff;
+  height: 60px;
+}
