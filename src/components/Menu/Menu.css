@@ -1,0 +1,20 @@
+.menu {
+  background-color: gray;
+  display: flex;
+  flex-direction: column;
+  width: 15%;
+}
+
+button {
+  border-radius: 8px;
+  height: 30px;
+  margin: 10px;
+  margin-top: 20px;
+  width: 90%;
+}
+
+h2 {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  color: #fff;
+}
