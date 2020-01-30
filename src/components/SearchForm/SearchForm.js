@@ -5,7 +5,7 @@ const SearchForm = props => {
   return (
     <nav className="nav">
       <input className="nav-search"></input>
-      <button onclick={props.runSearch}>SEARCH</button>
+      <button onClick={props.runSearch}>SEARCH</button>
     </nav>
   );
 };
